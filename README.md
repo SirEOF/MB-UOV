@@ -1,1 +1,1 @@
-# This is a sage code to show the equivalent key of MB-UOV.
+# This code can be used to show the equivalent key of MB-UOV.
